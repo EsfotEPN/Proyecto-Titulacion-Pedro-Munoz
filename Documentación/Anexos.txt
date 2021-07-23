@@ -1,0 +1,14 @@
+1.	Manual Técnico
+•	Recopilación de Requerimientos
+•	Historias de Usuario
+•	Product Backlog
+•	Sprint Backlog
+•	Diseño de interfaces
+•	Pruebas
+2.	Manual de Usuario
+•	Manual en video
+3.	Manual de Instalación
+•	Despliegue del Sistema Web
+•	Despliegue de la Aplicación Móvil
+•	Credenciales de acceso 
+•	Repositorio del código fuente
